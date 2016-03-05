@@ -1,0 +1,1 @@
+Utility for work whith text file. Good work for struct - name, sname, pname and number of group. Utility for elders and teachers.
